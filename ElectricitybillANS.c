@@ -37,3 +37,13 @@ int main() {
 
     return 0;
 }
+/*Enter Customer Name: AnkushNathSharma
+Enter Customer ID: 11809
+Enter number of units consumed: 750
+
+----- Electricity Bill -----
+Customer Name: AnkushNathSharma
+Customer ID: 11809
+Units Consumed: 750
+Total Bill Amount: Rs. 6700.00
+----------------------------*/
